@@ -1,0 +1,1 @@
+window.onload = setInterval(function(){ document.getElementById('captchaIMG').src = ''; }, 60000);
